@@ -36,3 +36,4 @@ try:
     Product("Bad", -10)
 except ValueError as error:
     print("error:", error)
+
